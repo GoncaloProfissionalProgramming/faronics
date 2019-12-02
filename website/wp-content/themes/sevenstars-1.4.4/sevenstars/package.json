@@ -1,0 +1,21 @@
+{
+  "name": "flatter",
+  "version": "1.0.0",
+  "description": "Flatter - Premium theme ---------------------------- http://themeforest.net/user/themeton",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://purevtsooj@bitbucket.org/themeton/flatter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/themeton/flatter#readme",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-checktextdomain": "^1.0.1",
+    "grunt-pot": "^0.3.0"
+  }
+}
